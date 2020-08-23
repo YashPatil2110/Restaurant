@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Srisakdi&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Covered+By+Your+Grace&family=Dancing+Script:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Cinzel+Decorative&display=swap');
+
+body{
+  background: url(dinner1.jpg);
+  background-size: cover;
+  font-family: 'Dancing Script', cursive;
+}
+h1
+{
+	font-size: 100px;
+	color: #fff;
+}
+h2
+{
+	font-family: 'Covered By Your Grace', cursive;
+	color: #fff;
+}
+ select
+{
+	font-family: 'Cinzel Decorative', cursive;	
+}
+.card
+{
+	font-family: 'Cinzel Decorative', cursive;
+}
